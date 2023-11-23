@@ -1,4 +1,4 @@
-# Sanza parsing
+# Stanza parsing
 Some rough and ready scripts for parsing with Stanza. 
 
 ## `stanza-parse`
